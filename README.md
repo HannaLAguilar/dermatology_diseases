@@ -5,21 +5,14 @@ In this project, it was used principal component analysis (PCA), cross-validatio
 #### Data
 Each line corresponds to a patient and contains 34 attributes and their class (the last value of each sample). Some samples include invalid values represented by the '?'. The complete description of this dataset can be found at: https://archive.ics.uci.edu/ml/datasets/Dermatology
 
-Class Distribution:
-       Database:  Dermatology
-       
-       Class code:   Class:                  Number of instances:
-       1             psoriasis			    112
-       2             seboreic dermatitis             61
-       3             lichen planus                   72
-       4             pityriasis rosea                49
-       5             cronic dermatitis               52    
-       6             pityriasis rubra pilaris        20
 
-<img src="./images/concrete.jpg" width=70% height=70% align="center"> 
+#### Technologies used in this folder:
 
-The code contains:
-* Data preparation: Class dataset
-* Simple model with an input and output layer
-* Resnet18 model
+- python
+- pandas, numpy
+- PCA analysis, cross-validation
+- sklearn, scipy: 
+- classification algorithms: K-Nearest neighbours (KNN), suport vector machine (SVM), decision tree, gaussian baive bayes
+- matplotlib, seaborn
+- jupyter notebooks, anaconda
 
