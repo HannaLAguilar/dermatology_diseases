@@ -1,6 +1,6 @@
 # Dermatology diseases classification
 
-
+The complete description of this dataset can be found at: https://archive.ics.uci.edu/ml/datasets/Dermatology
 
 <img src="./images/concrete.jpg" width=70% height=70% align="center"> 
 
