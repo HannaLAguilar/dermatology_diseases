@@ -11,7 +11,7 @@ Each line corresponds to a patient and contains 34 attributes and their class (t
 - python
 - pandas, numpy
 - PCA analysis, cross-validation
-- sklearn, scipy: 
+- sklearn, scipy
 - classification algorithms: K-Nearest neighbours (KNN), suport vector machine (SVM), decision tree, gaussian baive bayes
 - matplotlib, seaborn
 - jupyter notebooks, anaconda
