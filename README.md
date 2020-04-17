@@ -6,7 +6,7 @@ In this project, it was used principal component analysis (PCA), cross-validatio
 Each line corresponds to a patient and contains 34 attributes and their class (the last value of each sample). Some samples include invalid values represented by the '?'. The complete description of this dataset can be found at: https://archive.ics.uci.edu/ml/datasets/Dermatology
 
 
-#### Technologies used in this folder:
+#### Technologies used:
 
 - python
 - pandas, numpy
