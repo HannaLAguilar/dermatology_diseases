@@ -1,6 +1,6 @@
 # Dermatology diseases classification
 
-In this project, principal component analysis (PCA), cross-validation and machine learning classification algorithms were used to classify the input data into 6 different dermatological pathologies. The model reached an accuracy of 97% with SVM.
+In this project, the principal component analysis algorithm (PCA), cross-validation and machine learning classification algorithms were used to classify the input data into 6 different dermatological pathologies. The model reached an accuracy of 97% with SVM.
 
 ### Technologies used:
 
