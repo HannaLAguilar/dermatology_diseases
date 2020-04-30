@@ -21,7 +21,6 @@ Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment
 ```
 conda install jupyter, numpy, pandas=0.25, matplotlib, seaborn
 conda install -c anaconda scikit-learn
-
 ```
 
 
