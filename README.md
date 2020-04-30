@@ -13,7 +13,7 @@ In this project, the principal component analysis algorithm (PCA), cross-validat
 - jupyter notebooks, anaconda
 
 ## Data
-Each line corresponds to a patient and contains 34 attributes and their class (the last value of each sample). Some samples include invalid values represented by the '?'. The complete description of this dataset can be found at: https://archive.ics.uci.edu/ml/datasets/Dermatology
+Each line corresponds to a patient and contains 34 attributes and their class (the last value of each sample). Some samples include invalid values represented by the '?'. The data and its complete description can be found [here](https://github.com/HannaLAguilar/dermatology_diseases/tree/master/data). 
 
 ## Installation
 
